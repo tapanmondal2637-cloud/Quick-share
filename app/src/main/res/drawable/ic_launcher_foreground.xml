@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Cast Symbol + Screen overlapping with center (54, 54) -->
+    <!-- Custom professional emerald Green TV display profile -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 30,34 H 78 C 82.4,34 86,37.6 86,42 V 66 C 86,70.4 82.4,74 78,74 H 62 L 64,78 H 44 L 46,74 H 30 C 25.6,74 22,70.4 22,66 V 42 C 22,37.6 25.6,34 30,34 Z" />
+        
+    <!-- Super bold phone overlay container representing casting -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 44,40 H 64 C 65.6,40 67,41.4 67,43 V 61 C 67,62.6 65.6,64 64,64 H 44 C 42.4,64 41,62.6 41,61 V 43 C 41,41.4 42.4,40 44,40 Z" />
+        
+    <!-- Radiant signal broadcast dot and ripples -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M 54,48 C 55.1,48 56,48.9 56,50 C 56,51.1 55.1,52 54,52 C 52.9,52 52,51.1 52,50 C 52,48.9 52.9,48 54,48 Z" />
+        
+    <path
+        android:fillColor="#0BBFDD"
+        android:pathData="M 54,43 C 57.9,43 61,46.1 61,50 C 61,53.9 57.9,57 54,57 C 50.1,57 47,53.9 47,50 C 47,46.1 50.1,43 54,43 Z M 54,45 C 51.2,45 49,47.2 49,50 C 49,52.8 51.2,55 54,55 C 56.8,55 59,52.8 59,50 C 59,47.2 56.8,45 54,45 Z" />
+</vector>
